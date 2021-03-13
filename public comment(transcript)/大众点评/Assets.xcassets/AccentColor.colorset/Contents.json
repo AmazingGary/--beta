@@ -1,0 +1,20 @@
+{
+  "colors" : [
+    {
+      "idiom" : "universal"
+    },
+    {
+      "idiom" : "iphone"
+    },
+    {
+      "idiom" : "watch"
+    },
+    {
+      "idiom" : "mac"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
